@@ -4,13 +4,17 @@ height: 40px;
 line-height: 40px;
 float: left;
 }
+header{
+    background-color: cornflowerblue;
+}
 .right-nav{ 
      height: 40px;
     line-height: 40px;
     float: right;
 }
 .left-nav{
-    height: 40px;
-    line-height: 40px;
+    width: 200px;
+    height: 45px;
+    line-height: 45px;
     float: left;
 }
