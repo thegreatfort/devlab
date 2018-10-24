@@ -18,3 +18,33 @@ header{
     line-height: 45px;
     float: left;
 }
+.nav{
+    background-color: cornflowerblue;
+    margin: 5px;
+    padding: 5px;
+}
+.row {
+    display: flex; /* equal height of the children */
+ }
+  .col {
+    flex: 1; /* additionally, equal width */
+  }
+  .col1 {
+    max-width: 30%;
+    min-height: 400px;
+    margin: 5px;
+    padding: 5px;
+    background-color: darkgoldenrod;
+  }
+  header, footer {
+    background-color: cornflowerblue;
+    height: 60px;
+    line-height: 60px;
+    margin: 5px;
+    padding: 5px;
+  }
+  footer{
+      text-align: center;
+      background-color: rgb(11, 49, 11);
+      color: white;
+  }
