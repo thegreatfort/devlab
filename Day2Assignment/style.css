@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+}
+
+td{
+    margin:5px;
+    padding: 5px;
+    text-align: center;
+    background-color: rgb(202, 202, 202);
+    border: 5px, solid, black;
+    border-radius: 1rem;
+}
+th{
+    background-color: rgb(190, 11, 11);
+    color: white;
+    border-radius: 1rem;
+}
+.jumbotron{
+    margin: 0;
+    padding: 2rem 1rem;
+    background-color: #e9ecef;
+}
+
+.title{
+    text-align: center;
+}
+.sandwich{
+    background-image: url(sandwich.jpg);
+    background-size: 100%;
+    background-position-y: 50%;
+    
+}
+.table{
+    background-color: rgba(128, 128, 128, 0.637);
+    color: white;
+    width: 30%;
+    border-radius: 1rem;
+    padding: 5px;
+}
+.title{
+    background-image: url(tenor.gif);
+    height: 200px;
+    background-size: 50%;
+    
+}
+.title-words{
+    color:white;
+    background-color: black;
+    text-align: center;
+    margin: 0;
+}
+.links{
+    text-align: center;
+    padding: 5px;
+    background-color:rgb(230, 230, 230);
+}
+.links1{
+    margin-left: 5%;
+    margin-right:5%;
+}
+.music{
+    background-image: url(twrp.jpg);
+    background-size: 100%;
+    background-position-y: 50%;
+    display: flex;
+    justify-content: flex-end;
+}
+.music-table{
+    background-color: rgba(128, 128, 128, 0.637);
+    color: white;
+    width: 30%;
+    border-radius: 1rem;
+    padding: 5px;
+    
+}
+.dnd{
+    background-image: url(dragon.jpg);
+    background-size: 100%;
+    background-position-y: 70%;
+}
+
+.white-text{
+    color: white;
+}
+.twrp-zone{
+    text-align: center;
+}
