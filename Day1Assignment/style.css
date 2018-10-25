@@ -25,6 +25,8 @@ header{
 }
 .row {
     display: flex; /* equal height of the children */
+    margin: 1px;
+    padding: 1px;
  }
   .col {
     flex: 1; /* additionally, equal width */
