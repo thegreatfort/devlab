@@ -1,0 +1,11 @@
+.danbg{
+    background-color: green !important;
+}
+
+.danimg{
+    background-image: url(../img/hexs.png) !important;
+}
+
+.white-text{
+    color: white;
+}
