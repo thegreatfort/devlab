@@ -1,0 +1,42 @@
+.jumbotron{
+    margin: 20px;
+    text-align: center;
+    border-radius: 20px;
+    transition: 1s
+}
+
+
+.jumbotron:hover{
+    margin-left: 50px;
+    margin-right: 50px;
+    background-image: linear-gradient(red, orange);
+    transition: 2s;
+}
+
+body{
+    background-color: grey;
+}
+
+.myCol-yellow{
+    background-color: rgb(218, 180, 11);
+}
+
+.myCol-green{
+    background-color: rgb(76, 184, 117);
+    height: 100px;
+}
+
+.myCol-red{
+    background-color: rgb(158, 1, 1);
+}
+
+.myCol-blue{
+    background-color: rgb(68, 0, 255);
+}
+.myCol-purple{
+    background-color: purple;
+}
+
+.container{
+    margin-bottom: 20px;
+}
