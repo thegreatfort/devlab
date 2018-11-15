@@ -1,0 +1,35 @@
+.cards{
+    display:flex;
+    text-align: center;
+}
+
+
+.images{
+    width: 60%;
+    height: 60%;
+}
+
+.formContainer{
+    margin: 50px;
+}
+
+.footer{
+    background-color: grey;
+}
+
+.footer-text{
+    padding: 50px;
+}
+
+.modal-btn{
+    text-align: center;
+    margin: 100px;
+}
+
+.item-card{
+    margin: 25px;
+}
+
+.progress{
+    margin: 10px;
+}
